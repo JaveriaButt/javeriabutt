@@ -1,12 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
-</head>
 <body>
     <div class="container">
         <h1>Hi there 👋</h1>
@@ -111,7 +104,7 @@
         <h2>Learn with Me</h2>
         <p>Check out my free courses on <a href="https://youtube.com/codeseekers">YouTube</a>.</p>
         <h2>Hire Me</h2>
-        <p>Read my customer reviews on <a href="https://www.fiverr.com/">Fiverr</a> and <a href="https://www.upwork.com/">Upwork</a>, and hire me on Upwork.</p>
+        <p>Read my customer reviews on <a href="https://www.fiverr.com/javeria6208">Fiverr</a> and <a href="https://www.upwork.com/freelancers/~01a50ac4c093dee162">Upwork</a>, and hire me on Upwork.</p>
     </div>
 
     
