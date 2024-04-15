@@ -110,3 +110,9 @@
     
 </body>
 </html>
+### GitHub Profile Stats
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=javeriabutt)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=javeriabutt&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javeriabutt&show_icons=true&locale=en)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javeriabutt)
