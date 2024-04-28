@@ -24,6 +24,7 @@
                 <div id="desktopCollapse" class="collapse show" aria-labelledby="desktopHeading" data-parent="#projectsAccordion">
                     <div class="card-body">
                         <ul>
+                            <li>Authenticator APP</li>
                             <li>Bulk Mail Sender for Marketing</li>
                             <li>Whatsapp Messages Sending for Marketing</li>
                             <li>Email Scrapper from Web</li>
