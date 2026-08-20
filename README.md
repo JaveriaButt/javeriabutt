@@ -5,6 +5,7 @@
         <h1>Hi there 👋</h1>
         <h2>About Me</h2>
         <p>I'm a passionate developer with experience in various technologies. Currently, I'm focusing on web automation and scripting using Python, as well as learning C# .NET Core.</p>
+        <b>All my Skill Set and Projects were uptil 2024, After that I have Switched my career to Ecom X Development and Now More into Amazon and Linnworks Automations</b>
         <h2>Skills</h2>
         <ul>
             <li><strong>Languages:</strong> C, C++, C#, Python, Java, HTML, CSS, JavaScript, PHP, SQL</li>
